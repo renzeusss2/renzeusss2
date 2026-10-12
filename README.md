@@ -46,7 +46,7 @@ I'm a 4th-year BS Information Technology student at the Polytechnic University o
 ### 🔎 Reunited: AI-Assisted Lost & Found Management System
 *Capstone project · in development · PHP, MySQL, JavaScript*
 A digital lost-and-found system for PUP Parañaque. It has six modules: authentication, lost item reporting, found item reporting, search & matching, claim & verification, and an admin dashboard. Matching uses text embeddings and cosine similarity to suggest lost/found pairs, and an admin approves each match and claim.
-*Repository to be published after capstone defense.*
+(*Repository to be published after capstone defense.*)
 
 ### 🏛️ Barangay Sto. Niño Budget Tracker System
 *Full-stack · deployed · FastAPI, React/Vite, PostgreSQL*
