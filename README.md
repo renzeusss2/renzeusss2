@@ -13,7 +13,7 @@
 
 ## 👋 About
 
-I'm a 3rd-year BS Information Technology student at the Polytechnic University of the Philippines – Parañaque Campus (graduating August 2027). I build full-stack web applications and add AI features where they solve a real problem: AI-assisted item matching, anomaly detection in budget data, and blockchain-backed record keeping. I lead the tech side of my academic projects.
+I'm a 4th-year BS Information Technology student at the Polytechnic University of the Philippines – Parañaque Campus (graduating August 2027). I build full-stack web applications and add AI features where they solve a real problem: AI-assisted item matching, anomaly detection in budget data, and blockchain-backed record keeping. I lead the tech side of my academic projects.
 
 **Currently:** working on my capstone (Reunited) and exploring running AI models locally.
 **Looking for:** internships and entry-level roles in web development, AI-integrated systems, or cloud.
